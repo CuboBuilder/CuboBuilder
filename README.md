@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate programmer, dedicated to create m
 ## 🌐 Connect with Me
 
 - [Telegram](https://t.me/kitsastudio1)
-- 
 ---
 
 *This README is a work in progress. Stay tuned for more updates!*
