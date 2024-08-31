@@ -1,19 +1,19 @@
-# 👋 Hello, I'm [Roman]!
+# 👋 Hello, I'm Roman!
 
-Welcome to my GitHub profile! I'm a passionate [programmer], dedicated to [create my own company].
+Welcome to my GitHub profile! I'm a passionate programmer, dedicated to create my own company.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Cucumber Simulator 2024 3D].
-- 🌱 I’m currently learning [JavaScript, C#].
-- 📫 E-Mail: [amogusroman18@gmail.com].
-- 😄 Pronouns: [he/him].
+- 🔭 I’m currently working on Cucumber Simulator 2024 3D.
+- 🌱 I’m currently learning JavaScript, C#.
+- 📫 E-Mail: amogusroman18@gmail.com.
+- 😄 Pronouns: he/him.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: [Python, JavaScript, C#]
-- **Tools**: [Git, Notepad++]
-- **Databases**: [MySQL, MongoDB]
+- **Languages**: Python, JavaScript, C#
+- **Tools**: Git, Notepad++
+- **Databases**: MySQL
 
 ## 📈 My GitHub Stats
 
